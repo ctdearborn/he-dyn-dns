@@ -5,6 +5,8 @@
 # documented at https://dns.he.net/docs.html
 # requests lib from http://docs.python-requests.org/en/master/
 # debian/ubuntu install "sudo apt install python3-requests"
+# dns.resolver lib from https://dnspython.readthedocs.io/
+# debian/ubunty install "sudo apt install python3-dnspython"
 
 import logging
 import subprocess
