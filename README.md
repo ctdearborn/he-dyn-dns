@@ -5,7 +5,7 @@ https://dnspython.readthedocs.io/
 
 Requires DNS to be hosted by https://dns.he.net
 
-Dynamic DNS setup documentation:
+dns.he.net Dynamic DNS setup documentation:
 >https://dns.he.net/docs.html
 
 Add one more more hosts to update in hosts.cfg. EX:
